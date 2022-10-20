@@ -4,8 +4,9 @@
   
   ---
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RE-Heat&theme=dracula&exclude_repo=Computer-Science-Engineering,clone-web-scrapper&hide=Procfile&layout=compact&langs_count=8"/>
   <img src="https://github-readme-stats.vercel.app/api?username=RE-Heat&show_icons=true&theme=radical">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RE-Heat&theme=dracula&exclude_repo=Computer-Science-Engineering,clone-web-scrapper&hide=Procfile&layout=compact&langs_count=8"/>
+
   
 
   
@@ -16,7 +17,7 @@
   <!--백-->
   <!--언어 및 툴 -->
    <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/>
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/>
+   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/>
 <br/><br/>
   
  <!--공부중 -->
@@ -25,7 +26,8 @@
   <!--백-->
   <br/>
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white"/>
-
+  <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/>
  
   <br>
  
